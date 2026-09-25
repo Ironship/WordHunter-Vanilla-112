@@ -63,3 +63,10 @@ behind a guard, which would fix the same fault there without a fork. And whether
 let this be built rather than hand-maintained.
 
 Nothing here has been modified. It is a copy, taken 2026-09-14.
+
+## Licence
+
+This README and the `WordHunterWoW` folder are MIT, see `LICENSE`; the
+folder's own `LICENSE` followed the source repository to MIT on 2026-09-25.
+The dictionary and the English panel stay GPL v3: they carry data derived from
+Questie, see each folder's `NOTICE`.
